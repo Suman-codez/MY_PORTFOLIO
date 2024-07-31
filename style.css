@@ -126,7 +126,7 @@ h4, p{
 /* about sec  */
 
 .about-me-sec{
-    min-height: 55vh;
+    min-height: 75vh;
     background-color: var(--secondary-shade);
     color: var(--primary-color);
 }
